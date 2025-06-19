@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.conda/
+.git
+Salmela_Anna_opinnayte.pdf
+vectorize_pdf.py
